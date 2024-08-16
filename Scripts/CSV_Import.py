@@ -1,4 +1,7 @@
-
+#=======================================================
+# Python script to adjust the column widths in db table
+# to fix truncation error in .CSV flat file import
+#=======================================================
 
 
 import pandas as pd
