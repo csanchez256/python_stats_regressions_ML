@@ -9,6 +9,10 @@ import numpy as np
 
 df = pd.read_csv('C:\\Users\\css7c\\OneDrive\\Desktop\\NM Paper Datasests 7.14.24\\SUMMARY_STATISTICS\\Data From Gabriel M 8.14.24\\data\\nm_medicaid_weighted_08_14_2024.csv')
 
+
+print(df)
+
+
 column_names = []
 
 
